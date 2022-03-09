@@ -1,0 +1,52 @@
+,UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined_Key,Population,state_code
+0,84080001,US,USA,840.0,80001.0,Out of AL,Alabama,US,,,"Out of AL, Alabama, US",,AL
+1,84080002,US,USA,840.0,80002.0,Out of AK,Alaska,US,,,"Out of AK, Alaska, US",,AK
+2,84080004,US,USA,840.0,80004.0,Out of AZ,Arizona,US,,,"Out of AZ, Arizona, US",,AZ
+3,84080005,US,USA,840.0,80005.0,Out of AR,Arkansas,US,,,"Out of AR, Arkansas, US",,AR
+4,84080006,US,USA,840.0,80006.0,Out of CA,California,US,,,"Out of CA, California, US",,CA
+5,84080008,US,USA,840.0,80008.0,Out of CO,Colorado,US,,,"Out of CO, Colorado, US",,CO
+6,84080009,US,USA,840.0,80009.0,Out of CT,Connecticut,US,,,"Out of CT, Connecticut, US",,CT
+7,84080010,US,USA,840.0,80010.0,Out of DE,Delaware,US,,,"Out of DE, Delaware, US",,DE
+8,84080011,US,USA,840.0,80011.0,Out of DC,District of Columbia,US,,,"Out of DC, District of Columbia, US",,DC
+9,84080012,US,USA,840.0,80012.0,Out of FL,Florida,US,,,"Out of FL, Florida, US",,FL
+10,84080013,US,USA,840.0,80013.0,Out of GA,Georgia,US,,,"Out of GA, Georgia, US",,GA
+11,84080015,US,USA,840.0,80015.0,Out of HI,Hawaii,US,,,"Out of HI, Hawaii, US",,HI
+12,84080016,US,USA,840.0,80016.0,Out of ID,Idaho,US,,,"Out of ID, Idaho, US",,ID
+13,84080017,US,USA,840.0,80017.0,Out of IL,Illinois,US,,,"Out of IL, Illinois, US",,IL
+14,84080018,US,USA,840.0,80018.0,Out of IN,Indiana,US,,,"Out of IN, Indiana, US",,IN
+15,84080019,US,USA,840.0,80019.0,Out of IA,Iowa,US,,,"Out of IA, Iowa, US",,IA
+16,84080020,US,USA,840.0,80020.0,Out of KS,Kansas,US,,,"Out of KS, Kansas, US",,KS
+17,84080021,US,USA,840.0,80021.0,Out of KY,Kentucky,US,,,"Out of KY, Kentucky, US",,KY
+18,84080022,US,USA,840.0,80022.0,Out of LA,Louisiana,US,,,"Out of LA, Louisiana, US",,LA
+19,84080023,US,USA,840.0,80023.0,Out of ME,Maine,US,,,"Out of ME, Maine, US",,ME
+20,84080024,US,USA,840.0,80024.0,Out of MD,Maryland,US,,,"Out of MD, Maryland, US",,MD
+21,84080025,US,USA,840.0,80025.0,Out of MA,Massachusetts,US,,,"Out of MA, Massachusetts, US",,MA
+22,84080026,US,USA,840.0,80026.0,Out of MI,Michigan,US,,,"Out of MI, Michigan, US",,MI
+23,84080027,US,USA,840.0,80027.0,Out of MN,Minnesota,US,,,"Out of MN, Minnesota, US",,MN
+24,84080028,US,USA,840.0,80028.0,Out of MS,Mississippi,US,,,"Out of MS, Mississippi, US",,MS
+25,84080029,US,USA,840.0,80029.0,Out of MO,Missouri,US,,,"Out of MO, Missouri, US",,MO
+26,84080030,US,USA,840.0,80030.0,Out of MT,Montana,US,,,"Out of MT, Montana, US",,MT
+27,84080031,US,USA,840.0,80031.0,Out of NE,Nebraska,US,,,"Out of NE, Nebraska, US",,NE
+28,84080032,US,USA,840.0,80032.0,Out of NV,Nevada,US,,,"Out of NV, Nevada, US",,NV
+29,84080033,US,USA,840.0,80033.0,Out of NH,New Hampshire,US,,,"Out of NH, New Hampshire, US",,NH
+30,84080034,US,USA,840.0,80034.0,Out of NJ,New Jersey,US,,,"Out of NJ, New Jersey, US",,NJ
+31,84080035,US,USA,840.0,80035.0,Out of NM,New Mexico,US,,,"Out of NM, New Mexico, US",,NM
+32,84080036,US,USA,840.0,80036.0,Out of NY,New York,US,,,"Out of NY, New York, US",,NY
+33,84080037,US,USA,840.0,80037.0,Out of NC,North Carolina,US,,,"Out of NC, North Carolina, US",,NC
+34,84080038,US,USA,840.0,80038.0,Out of ND,North Dakota,US,,,"Out of ND, North Dakota, US",,ND
+35,84080039,US,USA,840.0,80039.0,Out of OH,Ohio,US,,,"Out of OH, Ohio, US",,OH
+36,84080040,US,USA,840.0,80040.0,Out of OK,Oklahoma,US,,,"Out of OK, Oklahoma, US",,OK
+37,84080041,US,USA,840.0,80041.0,Out of OR,Oregon,US,,,"Out of OR, Oregon, US",,OR
+38,84080042,US,USA,840.0,80042.0,Out of PA,Pennsylvania,US,,,"Out of PA, Pennsylvania, US",,PA
+39,84080044,US,USA,840.0,80044.0,Out of RI,Rhode Island,US,,,"Out of RI, Rhode Island, US",,RI
+40,84080045,US,USA,840.0,80045.0,Out of SC,South Carolina,US,,,"Out of SC, South Carolina, US",,SC
+41,84080046,US,USA,840.0,80046.0,Out of SD,South Dakota,US,,,"Out of SD, South Dakota, US",,SD
+42,84080047,US,USA,840.0,80047.0,Out of TN,Tennessee,US,,,"Out of TN, Tennessee, US",,TN
+43,84080048,US,USA,840.0,80048.0,Out of TX,Texas,US,,,"Out of TX, Texas, US",,TX
+44,84080049,US,USA,840.0,80049.0,Out of UT,Utah,US,,,"Out of UT, Utah, US",,UT
+45,84080050,US,USA,840.0,80050.0,Out of VT,Vermont,US,,,"Out of VT, Vermont, US",,VT
+46,84080051,US,USA,840.0,80051.0,Out of VA,Virginia,US,,,"Out of VA, Virginia, US",,VA
+47,84080053,US,USA,840.0,80053.0,Out of WA,Washington,US,,,"Out of WA, Washington, US",,WA
+48,84080054,US,USA,840.0,80054.0,Out of WV,West Virginia,US,,,"Out of WV, West Virginia, US",,WV
+49,84080055,US,USA,840.0,80055.0,Out of WI,Wisconsin,US,,,"Out of WI, Wisconsin, US",,WI
+50,84080056,US,USA,840.0,80056.0,Out of WY,Wyoming,US,,,"Out of WY, Wyoming, US",,WY
